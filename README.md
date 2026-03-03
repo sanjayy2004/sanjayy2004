@@ -15,6 +15,8 @@ CS Foundations: DSA, OOPS, DBMS—ready for system design interviews
 
 Tools That Ship: Git/GitHub, VS Code, Excel automation
 
+
+
 🔥 Projects Recruiters Love
 Retail Sales Forecaster
 Crushed a multi-store dataset (100K+ rows) to predict 12-week sales. Factored in CPI, unemployment, holidays, and weather—delivered ML models with actionable inventory recs. Impact: Identified 20% overstock opportunities.
